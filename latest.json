@@ -1,14 +1,14 @@
 {
-  "tag_name": "v1.2.0",
-  "versionCode": 5,
-  "name": "余量 1.2.0",
-  "body": "界面按 Material 3 重做。默认跟随壁纸取色，也可以改成青柠。宽屏分成用量环和明细两栏。",
-  "published_at": "2026-11-20T06:40:00Z",
-  "apk_name": "yuliang-1.2.0.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.2.0/yuliang-1.2.0.apk",
-  "size": 15879154,
-  "sha256": "fed73add95d0538fcb6815a47fd0eb94dbd6161c1874f6c803a5effd0137067c",
+  "tag_name": "v1.2.1",
+  "versionCode": 6,
+  "name": "余量 1.2.1",
+  "body": "小组件圆环和百分比可以在已用和剩余之间切换，并标明是哪一种。刷新间隔在大字号下不再被截断。",
+  "published_at": "2026-11-20T06:45:00Z",
+  "apk_name": "yuliang-1.2.1.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.2.1/yuliang-1.2.1.apk",
+  "size": 15895742,
+  "sha256": "e45e5dba9bc082a8b365fc56a5b316e33473b33721b7e7089f7507069ff97cc5",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.2.0.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.2.1.apk"
   ]
 }
