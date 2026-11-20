@@ -1,14 +1,14 @@
 {
-  "tag_name": "v1.2.1",
-  "versionCode": 6,
-  "name": "余量 1.2.1",
-  "body": "小组件圆环和百分比可以在已用和剩余之间切换，并标明是哪一种。刷新间隔在大字号下不再被截断。",
-  "published_at": "2026-11-20T06:45:00Z",
-  "apk_name": "yuliang-1.2.1.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.2.1/yuliang-1.2.1.apk",
-  "size": 15895742,
-  "sha256": "e45e5dba9bc082a8b365fc56a5b316e33473b33721b7e7089f7507069ff97cc5",
+  "tag_name": "v1.3.0",
+  "versionCode": 7,
+  "name": "余量 1.3.0",
+  "body": "桌面小组件可以单独换成液态玻璃，并调节透明度。应用里的界面保持不变。",
+  "published_at": "2026-11-20T06:55:00Z",
+  "apk_name": "yuliang-1.3.0.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.0/yuliang-1.3.0.apk",
+  "size": 15912126,
+  "sha256": "2dfa711daefa4950f163b768d2502f5540287f3e805ef16b26aa4c4fbeb55b05",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.2.1.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.3.0.apk"
   ]
 }
