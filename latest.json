@@ -1,15 +1,15 @@
 {
-  "tag_name": "v1.3.3",
-  "versionCode": 10,
-  "name": "余量 1.3.3",
-  "body": "点下载并安装会立刻显示进度。失败时给出中文原因，并可以改用浏览器下载。",
-  "published_at": "2026-11-20T07:45:00Z",
-  "apk_name": "yuliang-1.3.3.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.3/yuliang-1.3.3.apk",
-  "size": 15928546,
-  "sha256": "dae1aa61787aeefd4ba2c502a574a6361a7843215eac5e3550e6dd718f4e92f5",
+  "tag_name": "v1.3.4",
+  "versionCode": 11,
+  "name": "余量 1.3.4",
+  "body": "小组件显示最后更新时间，刷新按钮会重新排队。开机和应用更新后会重新安排后台刷新。",
+  "published_at": "2026-11-20T13:10:00Z",
+  "apk_name": "yuliang-1.3.4.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.4/yuliang-1.3.4.apk",
+  "size": 15928550,
+  "sha256": "d679960e609be83907e184a18893cb27f988222db951afbabb7a74ec2c189b9d",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@v1.3.3/apk/yuliang-1.3.3.apk",
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.3.3.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@v1.3.4/apk/yuliang-1.3.4.apk",
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.3.4.apk"
   ]
 }
