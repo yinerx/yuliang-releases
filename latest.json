@@ -1,15 +1,15 @@
 {
-  "tag_name": "v1.3.2",
-  "versionCode": 9,
-  "name": "余量 1.3.2",
-  "body": "液态玻璃会立刻应用到已放置的小组件。风格卡片整块都可以点。",
-  "published_at": "2026-11-20T07:10:00Z",
-  "apk_name": "yuliang-1.3.2.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.2/yuliang-1.3.2.apk",
-  "size": 15912122,
-  "sha256": "486043482430d8813d0ffbc2804f7d512cd60b4433d9ac6dd315cd3ec3caaace",
+  "tag_name": "v1.3.3",
+  "versionCode": 10,
+  "name": "余量 1.3.3",
+  "body": "点下载并安装会立刻显示进度。失败时给出中文原因，并可以改用浏览器下载。",
+  "published_at": "2026-11-20T07:45:00Z",
+  "apk_name": "yuliang-1.3.3.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.3/yuliang-1.3.3.apk",
+  "size": 15928546,
+  "sha256": "dae1aa61787aeefd4ba2c502a574a6361a7843215eac5e3550e6dd718f4e92f5",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@v1.3.2/apk/yuliang-1.3.2.apk",
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.3.2.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@v1.3.3/apk/yuliang-1.3.3.apk",
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.3.3.apk"
   ]
 }
