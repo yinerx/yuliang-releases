@@ -1,14 +1,14 @@
 {
-  "tag_name": "v1.1.1",
-  "versionCode": 4,
-  "name": "余量 1.1.1",
-  "body": "点通知栏里的常驻百分比现在会打开应用。如果应用已在后台，会回到原来的界面。通知保持常驻。",
-  "published_at": "2026-11-20T06:05:00Z",
-  "apk_name": "yuliang-1.1.1.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.1.1/yuliang-1.1.1.apk",
-  "size": 12604812,
-  "sha256": "5591ce4d79e33901df68709c720536600fcb6979c72706c8145aed4a7896a29f",
+  "tag_name": "v1.2.0",
+  "versionCode": 5,
+  "name": "余量 1.2.0",
+  "body": "界面按 Material 3 重做。默认跟随壁纸取色，也可以改成青柠。宽屏分成用量环和明细两栏。",
+  "published_at": "2026-11-20T06:40:00Z",
+  "apk_name": "yuliang-1.2.0.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.2.0/yuliang-1.2.0.apk",
+  "size": 15879154,
+  "sha256": "fed73add95d0538fcb6815a47fd0eb94dbd6161c1874f6c803a5effd0137067c",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.1.1.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.2.0.apk"
   ]
 }
