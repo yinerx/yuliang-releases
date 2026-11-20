@@ -1,14 +1,15 @@
 {
-  "tag_name": "v1.3.0",
-  "versionCode": 7,
-  "name": "余量 1.3.0",
-  "body": "桌面小组件可以单独换成液态玻璃，并调节透明度。应用里的界面保持不变。",
-  "published_at": "2026-11-20T06:55:00Z",
-  "apk_name": "yuliang-1.3.0.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.0/yuliang-1.3.0.apk",
-  "size": 15912126,
-  "sha256": "2dfa711daefa4950f163b768d2502f5540287f3e805ef16b26aa4c4fbeb55b05",
+  "tag_name": "v1.3.1",
+  "versionCode": 8,
+  "name": "余量 1.3.1",
+  "body": "检查更新时采用版本号最高的清单，不再被过期的 jsDelivr @main 挡住。4×2 小组件不能再缩到 2×2。",
+  "published_at": "2026-11-20T07:00:00Z",
+  "apk_name": "yuliang-1.3.1.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.1/yuliang-1.3.1.apk",
+  "size": 15912118,
+  "sha256": "1fef5a4af0cb6ddfa5810f90eee6791581817acf268b25cc13a07b5eb7c26d98",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.3.0.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@v1.3.1/apk/yuliang-1.3.1.apk",
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.3.1.apk"
   ]
 }
