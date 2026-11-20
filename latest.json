@@ -1,0 +1,14 @@
+{
+  "tag_name": "v1.1.0",
+  "versionCode": 3,
+  "name": "余量 1.1.0",
+  "body": "主界面改成青柠环的 GrokGlass 风格，增加近 7 天用量曲线、分项、额外积分、中英界面，以及从 jsDelivr / Fastly / GitHub 检查更新。下载安装前会核对 SHA-256。",
+  "published_at": "2026-11-20T05:40:00Z",
+  "apk_name": "yuliang-1.1.0.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.1.0/yuliang-1.1.0.apk",
+  "size": 12588432,
+  "sha256": "6dbf821718897ae2cc62551a866fa4bfe293457b35690c1c44287656c2ab30b9",
+  "apk_mirrors": [
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@main/apk/yuliang-1.1.0.apk"
+  ]
+}
