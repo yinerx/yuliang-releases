@@ -1,12 +1,12 @@
 {
-  "tag_name": "v1.3.5",
-  "versionCode": 12,
-  "name": "余量 1.3.5",
-  "body": "主界面和小组件改成更安静的排版：数字在圆环里，周期和各产品用量分成卡片。",
-  "published_at": "2026-11-22T16:00:00Z",
-  "apk_name": "yuliang-1.3.5.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.5/yuliang-1.3.5.apk",
-  "size": 15961318,
-  "sha256": "511f1c5f09840d72f637862bcba1b18e915ff8446636cd2ed75384c9733f0c83",
+  "tag_name": "v1.3.6",
+  "versionCode": 13,
+  "name": "余光 1.3.6",
+  "body": "改名「余光」（Afterglow）。新增 5 套图标，可在设置里切换，主色跟随图标。安装后桌面图标和名字会变成「余光」。",
+  "published_at": "2026-11-23T01:56:56Z",
+  "apk_name": "yuliang-1.3.6.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.6/yuliang-1.3.6.apk",
+  "size": 15988459,
+  "sha256": "618bdac98e466d56e4f0ed3ec577ed64d1983181d6d77b5d2b7f763fa6727bb8",
   "apk_mirrors": []
 }
