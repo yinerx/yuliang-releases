@@ -1,15 +1,15 @@
 {
-  "tag_name": "v1.3.8",
-  "versionCode": 15,
-  "name": "余光 1.3.8",
-  "body": "修复澎湃 OS 上点小组件打不开应用的问题。",
-  "published_at": "2026-11-23T09:16:37Z",
-  "apk_name": "yuliang-1.3.8.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.8/yuliang-1.3.8.apk",
+  "tag_name": "v1.3.9",
+  "versionCode": 16,
+  "name": "余光 1.3.9",
+  "body": "去掉小组件及 App 预览中的「刷新」按钮，点击小组件任意位置都只打开 App；后台自动更新逻辑保持不变。",
+  "published_at": "2026-11-24T04:52:20Z",
+  "apk_name": "yuliang-1.3.9.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.3.9/yuliang-1.3.9.apk",
   "size": 15972075,
-  "sha256": "13ebb8999368793c1f550f9a8b86bf3c7806e0a3879e1453049e34deae48f230",
+  "sha256": "0e08c9bc0761fd14b6053dda4559db94852f8f92ad3edc6ec6b12eab13a4606a",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@06a7a6ebbb5fbdc6e6ded6fb480813dc2cd412b4/apk/yuliang-1.3.8.apk",
-    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@06a7a6ebbb5fbdc6e6ded6fb480813dc2cd412b4/apk/yuliang-1.3.8.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@15de43cca26fa0b11fdd4268859944c965926431/apk/yuliang-1.3.9.apk",
+    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@15de43cca26fa0b11fdd4268859944c965926431/apk/yuliang-1.3.9.apk"
   ]
 }
