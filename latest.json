@@ -1,18 +1,18 @@
 {
-  "versionCode": 17,
-  "versionName": "1.4.0",
-  "changelog": "检查更新和下载按新的开发规范重做：\n\n- 检查更新先读 GitHub Release 上的 latest.json，GitHub 连不上时再依次用 jsDelivr、raw 镜像，最后才用 GitHub 接口。\n- 有没有新版只看版本号（versionCode）。\n- 下载安装包用 latest.json 里给的下载地址（downloadUrl），GitHub 不通时换用 latest.json 里列出的镜像，下载后照旧核对校验和。\n- 被 GitHub 限流或者断网时，会提示「换个网络或稍后再试」这样看得懂的话，不再只显示「几个更新源都没有连上」。\n- 检查更新和下载安装包时带上余光自己的 User-Agent。\n\n登录、读用量、小组件和后台刷新都没有改。签名和以前一致，从 1.3.9 直接覆盖安装即可。",
-  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.0/yuliang-1.4.0.apk",
-  "tag_name": "v1.4.0",
-  "name": "余光 1.4.0",
-  "body": "检查更新和下载按新的开发规范重做：\n\n- 检查更新先读 GitHub Release 上的 latest.json，GitHub 连不上时再依次用 jsDelivr、raw 镜像，最后才用 GitHub 接口。\n- 有没有新版只看版本号（versionCode）。\n- 下载安装包用 latest.json 里给的下载地址（downloadUrl），GitHub 不通时换用 latest.json 里列出的镜像，下载后照旧核对校验和。\n- 被 GitHub 限流或者断网时，会提示「换个网络或稍后再试」这样看得懂的话，不再只显示「几个更新源都没有连上」。\n- 检查更新和下载安装包时带上余光自己的 User-Agent。\n\n登录、读用量、小组件和后台刷新都没有改。签名和以前一致，从 1.3.9 直接覆盖安装即可。",
-  "published_at": "2026-11-24T14:25:59Z",
-  "apk_name": "yuliang-1.4.0.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.0/yuliang-1.4.0.apk",
+  "versionCode": 18,
+  "versionName": "1.4.1",
+  "changelog": "- 重置卡片的速度提醒弱化：能撑到下次重置时是一行灰色小字；按现在的速度会用完时是红色小字，前面加一个小红点，不再用整块彩色底。\n- 「近 7 天」移到重置卡片上方。\n- 平板两列布局调整：左边是用量圆环和「近 7 天」，右边是重置卡片和各产品用量。\n\n检查更新、下载安装、登录和小组件都没有改。签名和以前一致，从 1.4.0 直接覆盖安装即可。",
+  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.1/yuliang-1.4.1.apk",
+  "tag_name": "v1.4.1",
+  "name": "余光 1.4.1",
+  "body": "- 重置卡片的速度提醒弱化：能撑到下次重置时是一行灰色小字；按现在的速度会用完时是红色小字，前面加一个小红点，不再用整块彩色底。\n- 「近 7 天」移到重置卡片上方。\n- 平板两列布局调整：左边是用量圆环和「近 7 天」，右边是重置卡片和各产品用量。\n\n检查更新、下载安装、登录和小组件都没有改。签名和以前一致，从 1.4.0 直接覆盖安装即可。",
+  "published_at": "2026-11-24T15:06:22Z",
+  "apk_name": "yuliang-1.4.1.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.1/yuliang-1.4.1.apk",
   "size": 15972075,
-  "sha256": "2cf3656c3241bf7af98de54527539b5c19ab8473fd8344faab86b4bd8f50902a",
+  "sha256": "7f84bcf2acc16fe8a573e51f7420eb20eb4b60f6114cb9b22f295488958da66b",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@5d74257039ac5766d3dcee0faefa79027858bce5/apk/yuliang-1.4.0.apk",
-    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@5d74257039ac5766d3dcee0faefa79027858bce5/apk/yuliang-1.4.0.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@6a2cf6f16d41868be515c3919126306c85eea2c9/apk/yuliang-1.4.1.apk",
+    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@6a2cf6f16d41868be515c3919126306c85eea2c9/apk/yuliang-1.4.1.apk"
   ]
 }
