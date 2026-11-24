@@ -1,18 +1,18 @@
 {
-  "versionCode": 18,
-  "versionName": "1.4.1",
-  "changelog": "- 重置卡片的速度提醒弱化：能撑到下次重置时是一行灰色小字；按现在的速度会用完时是红色小字，前面加一个小红点，不再用整块彩色底。\n- 「近 7 天」移到重置卡片上方。\n- 平板两列布局调整：左边是用量圆环和「近 7 天」，右边是重置卡片和各产品用量。\n\n检查更新、下载安装、登录和小组件都没有改。签名和以前一致，从 1.4.0 直接覆盖安装即可。",
-  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.1/yuliang-1.4.1.apk",
-  "tag_name": "v1.4.1",
-  "name": "余光 1.4.1",
-  "body": "- 重置卡片的速度提醒弱化：能撑到下次重置时是一行灰色小字；按现在的速度会用完时是红色小字，前面加一个小红点，不再用整块彩色底。\n- 「近 7 天」移到重置卡片上方。\n- 平板两列布局调整：左边是用量圆环和「近 7 天」，右边是重置卡片和各产品用量。\n\n检查更新、下载安装、登录和小组件都没有改。签名和以前一致，从 1.4.0 直接覆盖安装即可。",
-  "published_at": "2026-11-24T15:06:22Z",
-  "apk_name": "yuliang-1.4.1.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.1/yuliang-1.4.1.apk",
+  "versionCode": 19,
+  "versionName": "1.4.2",
+  "changelog": "- 各产品用量：GrokBot、Cursor 排在最上面，没有用量的项目自动隐藏；桌面小组件也一样。\n- 用量不到 1% 时显示「<1%」，不再显示成 0%。\n- 设置页的账号区重新设计：显示登录状态（已登录、登录已过期、未登录）和账号邮箱，旁边是「重新登录」按钮，下面是「退出登录」。没登录时按钮显示「登录」，不显示「退出登录」。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.1 直接覆盖安装即可。",
+  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.2/yuliang-1.4.2.apk",
+  "tag_name": "v1.4.2",
+  "name": "余光 1.4.2",
+  "body": "- 各产品用量：GrokBot、Cursor 排在最上面，没有用量的项目自动隐藏；桌面小组件也一样。\n- 用量不到 1% 时显示「<1%」，不再显示成 0%。\n- 设置页的账号区重新设计：显示登录状态（已登录、登录已过期、未登录）和账号邮箱，旁边是「重新登录」按钮，下面是「退出登录」。没登录时按钮显示「登录」，不显示「退出登录」。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.1 直接覆盖安装即可。",
+  "published_at": "2026-11-24T16:20:09Z",
+  "apk_name": "yuliang-1.4.2.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.2/yuliang-1.4.2.apk",
   "size": 15972075,
-  "sha256": "7f84bcf2acc16fe8a573e51f7420eb20eb4b60f6114cb9b22f295488958da66b",
+  "sha256": "95131b3169bea1e1362c0eb2e63a7434306d7dfa2e582167d52654bb999986f1",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@6a2cf6f16d41868be515c3919126306c85eea2c9/apk/yuliang-1.4.1.apk",
-    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@6a2cf6f16d41868be515c3919126306c85eea2c9/apk/yuliang-1.4.1.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@4310d8e28f99f84e79c63d80aab3ae89a1d27870/apk/yuliang-1.4.2.apk",
+    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@4310d8e28f99f84e79c63d80aab3ae89a1d27870/apk/yuliang-1.4.2.apk"
   ]
 }
