@@ -1,18 +1,18 @@
 {
-  "versionCode": 21,
-  "versionName": "1.4.4",
-  "changelog": "- 更新：去掉「打开应用时检查更新」下方的说明「有新版本会显示在这里，不会自己安装。」。\n- 账号区重排：邮箱单独放第一行，长了会换行，完整显示，不再截断。下面是「重新登录」和「退出登录」整行可点的列表行；退出登录的说明仍作为副标题保留。登录过期时邮箱下面会显示红字提示。未登录时只显示「未登录」和「登录」，没有退出行。\n- 「调试」改成「日志」：去掉演示数据开关（以前开着的会自动关掉，之后显示真实用量）；去掉「这里的日志不含访问令牌。」（日志写入时仍会脱敏令牌）；按钮改成「查看日志」，点开后在弹窗里查看（等宽字体、可滚动、可复制）。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.3 直接覆盖安装即可。",
-  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.4/yuliang-1.4.4.apk",
-  "tag_name": "v1.4.4",
-  "name": "余光 1.4.4",
-  "body": "- 更新：去掉「打开应用时检查更新」下方的说明「有新版本会显示在这里，不会自己安装。」。\n- 账号区重排：邮箱单独放第一行，长了会换行，完整显示，不再截断。下面是「重新登录」和「退出登录」整行可点的列表行；退出登录的说明仍作为副标题保留。登录过期时邮箱下面会显示红字提示。未登录时只显示「未登录」和「登录」，没有退出行。\n- 「调试」改成「日志」：去掉演示数据开关（以前开着的会自动关掉，之后显示真实用量）；去掉「这里的日志不含访问令牌。」（日志写入时仍会脱敏令牌）；按钮改成「查看日志」，点开后在弹窗里查看（等宽字体、可滚动、可复制）。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.3 直接覆盖安装即可。",
-  "published_at": "2026-11-25T00:10:09Z",
-  "apk_name": "yuliang-1.4.4.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.4/yuliang-1.4.4.apk",
+  "versionCode": 22,
+  "versionName": "1.4.5",
+  "changelog": "- 修复第一次换桌面图标时闪退。换图标会先打开新入口，再延后收掉正在用的旧入口。\n- 配色和桌面图标可以分开选。新增「图标跟随配色」开关：打开时换配色会同时换图标（和以前一样）；关掉后可以自由搭配。升级后开关默认打开，配色和图标都保持你现在用的那一套，看起来和升级前一样。\n- 配色改成大色卡，每张都有描边和底部的品牌色条，深色背景下也好认。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.4 直接覆盖安装即可。",
+  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.5/yuliang-1.4.5.apk",
+  "tag_name": "v1.4.5",
+  "name": "余光 1.4.5",
+  "body": "- 修复第一次换桌面图标时闪退。换图标会先打开新入口，再延后收掉正在用的旧入口。\n- 配色和桌面图标可以分开选。新增「图标跟随配色」开关：打开时换配色会同时换图标（和以前一样）；关掉后可以自由搭配。升级后开关默认打开，配色和图标都保持你现在用的那一套，看起来和升级前一样。\n- 配色改成大色卡，每张都有描边和底部的品牌色条，深色背景下也好认。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.4 直接覆盖安装即可。",
+  "published_at": "2026-11-25T01:21:47Z",
+  "apk_name": "yuliang-1.4.5.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.5/yuliang-1.4.5.apk",
   "size": 15988459,
-  "sha256": "3cd6ec9dc7266e2ae04d981c6b75461d00bca50ddc5b5dec040d387cfa50b15e",
+  "sha256": "76c61adbba7a81efcfa77768a3645dc6f4f44eafd96bd1703bb0e25c8203b090",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@b61c9cf84f3b3483407d9c77e246ef5abfa00790/apk/yuliang-1.4.4.apk",
-    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@b61c9cf84f3b3483407d9c77e246ef5abfa00790/apk/yuliang-1.4.4.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@0802a7881fba17bd50f67a735ee376553daaf76e/apk/yuliang-1.4.5.apk",
+    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@0802a7881fba17bd50f67a735ee376553daaf76e/apk/yuliang-1.4.5.apk"
   ]
 }
