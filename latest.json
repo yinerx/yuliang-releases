@@ -1,18 +1,18 @@
 {
-  "versionCode": 20,
-  "versionName": "1.4.3",
-  "changelog": "- 外观：去掉图标下面的说明文字；去掉「配色」设置，App 和小组件固定使用图标的颜色（以前选「跟随壁纸」的会自动改为图标色）。\n- 小组件：去掉「已放置的小组件」列表，「小组件显示」保留。\n- 通知与后台：去掉「通知栏常驻百分比」和「开机后自动刷新」下面的说明文字。\n- 电池优化和自启动改成状态卡片：没设好显示红色卡片，带「去关闭」或「去设置」；设好了显示绿色卡片。小米、红米、POCO 手机会检测自启动是否已允许，检测不到时只显示「自启动设置」入口。\n- 账号区只显示登录的邮箱，旁边是「重新登录」；登录过期时会显示红字提示。\n- 首页「近 7 天」卡片去掉右上角的「已用 %」标签。\n- 从系统设置回到 App 时，会重新读取电池优化和自启动的状态。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.2 直接覆盖安装即可。",
-  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.3/yuliang-1.4.3.apk",
-  "tag_name": "v1.4.3",
-  "name": "余光 1.4.3",
-  "body": "- 外观：去掉图标下面的说明文字；去掉「配色」设置，App 和小组件固定使用图标的颜色（以前选「跟随壁纸」的会自动改为图标色）。\n- 小组件：去掉「已放置的小组件」列表，「小组件显示」保留。\n- 通知与后台：去掉「通知栏常驻百分比」和「开机后自动刷新」下面的说明文字。\n- 电池优化和自启动改成状态卡片：没设好显示红色卡片，带「去关闭」或「去设置」；设好了显示绿色卡片。小米、红米、POCO 手机会检测自启动是否已允许，检测不到时只显示「自启动设置」入口。\n- 账号区只显示登录的邮箱，旁边是「重新登录」；登录过期时会显示红字提示。\n- 首页「近 7 天」卡片去掉右上角的「已用 %」标签。\n- 从系统设置回到 App 时，会重新读取电池优化和自启动的状态。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.2 直接覆盖安装即可。",
-  "published_at": "2026-11-24T17:37:35Z",
-  "apk_name": "yuliang-1.4.3.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.3/yuliang-1.4.3.apk",
-  "size": 15972075,
-  "sha256": "140d59dbcf605ea3a3bf095075d56b13426090a6c9f0e8add8f6f00a2f16e410",
+  "versionCode": 21,
+  "versionName": "1.4.4",
+  "changelog": "- 更新：去掉「打开应用时检查更新」下方的说明「有新版本会显示在这里，不会自己安装。」。\n- 账号区重排：邮箱单独放第一行，长了会换行，完整显示，不再截断。下面是「重新登录」和「退出登录」整行可点的列表行；退出登录的说明仍作为副标题保留。登录过期时邮箱下面会显示红字提示。未登录时只显示「未登录」和「登录」，没有退出行。\n- 「调试」改成「日志」：去掉演示数据开关（以前开着的会自动关掉，之后显示真实用量）；去掉「这里的日志不含访问令牌。」（日志写入时仍会脱敏令牌）；按钮改成「查看日志」，点开后在弹窗里查看（等宽字体、可滚动、可复制）。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.3 直接覆盖安装即可。",
+  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.4/yuliang-1.4.4.apk",
+  "tag_name": "v1.4.4",
+  "name": "余光 1.4.4",
+  "body": "- 更新：去掉「打开应用时检查更新」下方的说明「有新版本会显示在这里，不会自己安装。」。\n- 账号区重排：邮箱单独放第一行，长了会换行，完整显示，不再截断。下面是「重新登录」和「退出登录」整行可点的列表行；退出登录的说明仍作为副标题保留。登录过期时邮箱下面会显示红字提示。未登录时只显示「未登录」和「登录」，没有退出行。\n- 「调试」改成「日志」：去掉演示数据开关（以前开着的会自动关掉，之后显示真实用量）；去掉「这里的日志不含访问令牌。」（日志写入时仍会脱敏令牌）；按钮改成「查看日志」，点开后在弹窗里查看（等宽字体、可滚动、可复制）。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.3 直接覆盖安装即可。",
+  "published_at": "2026-11-25T00:10:09Z",
+  "apk_name": "yuliang-1.4.4.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.4/yuliang-1.4.4.apk",
+  "size": 15988459,
+  "sha256": "3cd6ec9dc7266e2ae04d981c6b75461d00bca50ddc5b5dec040d387cfa50b15e",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@a38f67b487f5c51dc5a384cefb1130c8df785fdf/apk/yuliang-1.4.3.apk",
-    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@a38f67b487f5c51dc5a384cefb1130c8df785fdf/apk/yuliang-1.4.3.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@b61c9cf84f3b3483407d9c77e246ef5abfa00790/apk/yuliang-1.4.4.apk",
+    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@b61c9cf84f3b3483407d9c77e246ef5abfa00790/apk/yuliang-1.4.4.apk"
   ]
 }
