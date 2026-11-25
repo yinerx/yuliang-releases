@@ -1,18 +1,18 @@
 {
-  "versionCode": 22,
-  "versionName": "1.4.5",
-  "changelog": "- 修复第一次换桌面图标时闪退。换图标会先打开新入口，再延后收掉正在用的旧入口。\n- 配色和桌面图标可以分开选。新增「图标跟随配色」开关：打开时换配色会同时换图标（和以前一样）；关掉后可以自由搭配。升级后开关默认打开，配色和图标都保持你现在用的那一套，看起来和升级前一样。\n- 配色改成大色卡，每张都有描边和底部的品牌色条，深色背景下也好认。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.4 直接覆盖安装即可。",
-  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.5/yuliang-1.4.5.apk",
-  "tag_name": "v1.4.5",
-  "name": "余光 1.4.5",
-  "body": "- 修复第一次换桌面图标时闪退。换图标会先打开新入口，再延后收掉正在用的旧入口。\n- 配色和桌面图标可以分开选。新增「图标跟随配色」开关：打开时换配色会同时换图标（和以前一样）；关掉后可以自由搭配。升级后开关默认打开，配色和图标都保持你现在用的那一套，看起来和升级前一样。\n- 配色改成大色卡，每张都有描边和底部的品牌色条，深色背景下也好认。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.4 直接覆盖安装即可。",
-  "published_at": "2026-11-25T01:21:47Z",
-  "apk_name": "yuliang-1.4.5.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.5/yuliang-1.4.5.apk",
+  "versionCode": 23,
+  "versionName": "1.4.6",
+  "changelog": "- 打开应用、额度刷新成最新百分比后，桌面小组件会立刻跟着更新，不用再等定时刷新。\n- 额度写进本地后立刻落盘，小组件读到的是同一份最新数据。\n- 小组件刷新失败不会拖垮应用里已经成功的刷新。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.5 直接覆盖安装即可。",
+  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.6/yuliang-1.4.6.apk",
+  "tag_name": "v1.4.6",
+  "name": "余光 1.4.6",
+  "body": "- 打开应用、额度刷新成最新百分比后，桌面小组件会立刻跟着更新，不用再等定时刷新。\n- 额度写进本地后立刻落盘，小组件读到的是同一份最新数据。\n- 小组件刷新失败不会拖垮应用里已经成功的刷新。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.5 直接覆盖安装即可。",
+  "published_at": "2026-11-25T17:26:45Z",
+  "apk_name": "yuliang-1.4.6.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.6/yuliang-1.4.6.apk",
   "size": 15988459,
-  "sha256": "76c61adbba7a81efcfa77768a3645dc6f4f44eafd96bd1703bb0e25c8203b090",
+  "sha256": "9248f1faf553241532b2a163c422379219dd547400c5aab0d35324b35817ee0e",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@0802a7881fba17bd50f67a735ee376553daaf76e/apk/yuliang-1.4.5.apk",
-    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@0802a7881fba17bd50f67a735ee376553daaf76e/apk/yuliang-1.4.5.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@d75523c0a58284e6d76232e84dcbc105e104b9d0/apk/yuliang-1.4.6.apk",
+    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@d75523c0a58284e6d76232e84dcbc105e104b9d0/apk/yuliang-1.4.6.apk"
   ]
 }
