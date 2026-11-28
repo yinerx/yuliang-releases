@@ -1,18 +1,18 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.6",
-  "changelog": "- 打开应用、额度刷新成最新百分比后，桌面小组件会立刻跟着更新，不用再等定时刷新。\n- 额度写进本地后立刻落盘，小组件读到的是同一份最新数据。\n- 小组件刷新失败不会拖垮应用里已经成功的刷新。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.5 直接覆盖安装即可。",
-  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.6/yuliang-1.4.6.apk",
-  "tag_name": "v1.4.6",
-  "name": "余光 1.4.6",
-  "body": "- 打开应用、额度刷新成最新百分比后，桌面小组件会立刻跟着更新，不用再等定时刷新。\n- 额度写进本地后立刻落盘，小组件读到的是同一份最新数据。\n- 小组件刷新失败不会拖垮应用里已经成功的刷新。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.5 直接覆盖安装即可。",
-  "published_at": "2026-11-25T17:26:45Z",
-  "apk_name": "yuliang-1.4.6.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.6/yuliang-1.4.6.apk",
-  "size": 15988459,
-  "sha256": "9248f1faf553241532b2a163c422379219dd547400c5aab0d35324b35817ee0e",
+  "versionCode": 24,
+  "versionName": "1.4.7",
+  "changelog": "- 新增 Gemini 用量监控。可以用 Google 账号登录 Antigravity，在首页看到 Gemini 模型和 Claude / GPT 模型各自的 5 小时、每周额度，以及剩余百分比和重置倒计时。最多可以添加 4 个 Google 账号。连 Google 时，VPN / 代理需要覆盖余光。\n- 新增实验功能：从电脑浏览器粘贴 Gemini 网页的 Cookie，读取 gemini.google.com/usage 上的 5 小时和每周额度。Cookie 加密存在本机，输入框不会回显。\n- 新增桌面小组件「额度一览」，把 Grok、Antigravity 和 Gemini App 的额度放在一起。\n- 常驻通知展开后也会显示 Gemini 的额度行。没有登录 Grok 时，通知会直接显示 Gemini 的第一行。\n- 打开应用或下拉刷新时，Gemini 会和 Grok 一起刷新，桌面小组件立刻跟着更新。网络不通时保留上次的数字；登录或 Cookie 过期会单独提示。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.6 直接覆盖安装即可。",
+  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.7/yuliang-1.4.7.apk",
+  "tag_name": "v1.4.7",
+  "name": "余光 1.4.7",
+  "body": "- 新增 Gemini 用量监控。可以用 Google 账号登录 Antigravity，在首页看到 Gemini 模型和 Claude / GPT 模型各自的 5 小时、每周额度，以及剩余百分比和重置倒计时。最多可以添加 4 个 Google 账号。连 Google 时，VPN / 代理需要覆盖余光。\n- 新增实验功能：从电脑浏览器粘贴 Gemini 网页的 Cookie，读取 gemini.google.com/usage 上的 5 小时和每周额度。Cookie 加密存在本机，输入框不会回显。\n- 新增桌面小组件「额度一览」，把 Grok、Antigravity 和 Gemini App 的额度放在一起。\n- 常驻通知展开后也会显示 Gemini 的额度行。没有登录 Grok 时，通知会直接显示 Gemini 的第一行。\n- 打开应用或下拉刷新时，Gemini 会和 Grok 一起刷新，桌面小组件立刻跟着更新。网络不通时保留上次的数字；登录或 Cookie 过期会单独提示。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.6 直接覆盖安装即可。",
+  "published_at": "2026-11-28T15:34:35Z",
+  "apk_name": "yuliang-1.4.7.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.7/yuliang-1.4.7.apk",
+  "size": 16161899,
+  "sha256": "e5bffbd2862b6fbfe45e63aa1c3d8f0882d1a415e8cb18ae70e35b7b553ddad4",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@d75523c0a58284e6d76232e84dcbc105e104b9d0/apk/yuliang-1.4.6.apk",
-    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@d75523c0a58284e6d76232e84dcbc105e104b9d0/apk/yuliang-1.4.6.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@135a843d103bab9147fb8cf5cde7d15d699b4b00/apk/yuliang-1.4.7.apk",
+    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@135a843d103bab9147fb8cf5cde7d15d699b4b00/apk/yuliang-1.4.7.apk"
   ]
 }
