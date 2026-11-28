@@ -1,18 +1,18 @@
 {
-  "versionCode": 24,
-  "versionName": "1.4.7",
-  "changelog": "- 新增 Gemini 用量监控。可以用 Google 账号登录 Antigravity，在首页看到 Gemini 模型和 Claude / GPT 模型各自的 5 小时、每周额度，以及剩余百分比和重置倒计时。最多可以添加 4 个 Google 账号。连 Google 时，VPN / 代理需要覆盖余光。\n- 新增实验功能：从电脑浏览器粘贴 Gemini 网页的 Cookie，读取 gemini.google.com/usage 上的 5 小时和每周额度。Cookie 加密存在本机，输入框不会回显。\n- 新增桌面小组件「额度一览」，把 Grok、Antigravity 和 Gemini App 的额度放在一起。\n- 常驻通知展开后也会显示 Gemini 的额度行。没有登录 Grok 时，通知会直接显示 Gemini 的第一行。\n- 打开应用或下拉刷新时，Gemini 会和 Grok 一起刷新，桌面小组件立刻跟着更新。网络不通时保留上次的数字；登录或 Cookie 过期会单独提示。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.6 直接覆盖安装即可。",
-  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.7/yuliang-1.4.7.apk",
-  "tag_name": "v1.4.7",
-  "name": "余光 1.4.7",
-  "body": "- 新增 Gemini 用量监控。可以用 Google 账号登录 Antigravity，在首页看到 Gemini 模型和 Claude / GPT 模型各自的 5 小时、每周额度，以及剩余百分比和重置倒计时。最多可以添加 4 个 Google 账号。连 Google 时，VPN / 代理需要覆盖余光。\n- 新增实验功能：从电脑浏览器粘贴 Gemini 网页的 Cookie，读取 gemini.google.com/usage 上的 5 小时和每周额度。Cookie 加密存在本机，输入框不会回显。\n- 新增桌面小组件「额度一览」，把 Grok、Antigravity 和 Gemini App 的额度放在一起。\n- 常驻通知展开后也会显示 Gemini 的额度行。没有登录 Grok 时，通知会直接显示 Gemini 的第一行。\n- 打开应用或下拉刷新时，Gemini 会和 Grok 一起刷新，桌面小组件立刻跟着更新。网络不通时保留上次的数字；登录或 Cookie 过期会单独提示。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.6 直接覆盖安装即可。",
-  "published_at": "2026-11-28T15:34:35Z",
-  "apk_name": "yuliang-1.4.7.apk",
-  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.7/yuliang-1.4.7.apk",
-  "size": 16161899,
-  "sha256": "e5bffbd2862b6fbfe45e63aa1c3d8f0882d1a415e8cb18ae70e35b7b553ddad4",
+  "versionCode": 25,
+  "versionName": "1.4.8",
+  "changelog": "- 界面改成「精密光仪」新设计：首页的光晕表盘、卡片、设置页、登录页和桌面小组件都重新排过，图标改成描边样式，浅色和深色都会更整齐。\n- 设置新增「配色来源」。Android 12 及以上默认跟随系统 Material You 壁纸动态取色，应用和小组件一起变。也可以改回「启动图标」，继续用原来的图标配色。\n- 「配色」色卡和「图标跟随配色」仍然管桌面图标。壁纸取色打开时，换色卡（若跟随打开）还是会换图标，但应用颜色继续跟壁纸；切回「启动图标」后，应用颜色重新跟色卡走。Android 12 以下会自动使用图标配色。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.7 直接覆盖安装即可。",
+  "downloadUrl": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.8/yuliang-1.4.8.apk",
+  "tag_name": "v1.4.8",
+  "name": "余光 1.4.8",
+  "body": "- 界面改成「精密光仪」新设计：首页的光晕表盘、卡片、设置页、登录页和桌面小组件都重新排过，图标改成描边样式，浅色和深色都会更整齐。\n- 设置新增「配色来源」。Android 12 及以上默认跟随系统 Material You 壁纸动态取色，应用和小组件一起变。也可以改回「启动图标」，继续用原来的图标配色。\n- 「配色」色卡和「图标跟随配色」仍然管桌面图标。壁纸取色打开时，换色卡（若跟随打开）还是会换图标，但应用颜色继续跟壁纸；切回「启动图标」后，应用颜色重新跟色卡走。Android 12 以下会自动使用图标配色。\n\n检查更新和下载安装都没有改。签名和以前一致，从 1.4.7 直接覆盖安装即可。",
+  "published_at": "2026-11-28T17:28:56Z",
+  "apk_name": "yuliang-1.4.8.apk",
+  "apk_url": "https://github.com/yinerx/yuliang-releases/releases/download/v1.4.8/yuliang-1.4.8.apk",
+  "size": 16212956,
+  "sha256": "8cebd5e9daff1bfbfb8fb9858332fd49f99baf6d56b8bab3dc4760bfc2dd0634",
   "apk_mirrors": [
-    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@135a843d103bab9147fb8cf5cde7d15d699b4b00/apk/yuliang-1.4.7.apk",
-    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@135a843d103bab9147fb8cf5cde7d15d699b4b00/apk/yuliang-1.4.7.apk"
+    "https://cdn.jsdelivr.net/gh/yinerx/yuliang-releases@1912344814ec237b7622dcdd43324b9ae8aa2f44/apk/yuliang-1.4.8.apk",
+    "https://fastly.jsdelivr.net/gh/yinerx/yuliang-releases@1912344814ec237b7622dcdd43324b9ae8aa2f44/apk/yuliang-1.4.8.apk"
   ]
 }
